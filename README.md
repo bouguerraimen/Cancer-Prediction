@@ -39,6 +39,6 @@ python main.py
 
 | Model               | Accuracy |
 |---------------------|----------|
-| Logistic Regression | TBD      |
+| Logistic Regression | 93%      |
 
 
