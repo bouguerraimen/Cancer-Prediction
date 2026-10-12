@@ -41,10 +41,4 @@ python main.py
 |---------------------|----------|
 | Logistic Regression | TBD      |
 
-## Disclaimer
 
-This project is for **educational purposes only**. It is not a medical tool and must not be used for real diagnosis.
-
-## Author
-
-[bouguerraimen](https://github.com/bouguerraimen)
