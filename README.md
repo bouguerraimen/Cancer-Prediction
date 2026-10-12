@@ -4,7 +4,7 @@ A beginner-friendly machine learning project that predicts whether a breast tumo
 
 ## Dataset
 
-This project uses the **Breast Cancer Wisconsin (Diagnostic)** dataset, available directly in scikit-learn (`sklearn.datasets.load_breast_cancer`) and on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).
+This project uses the **Breast Cancer Wisconsin (Diagnostic)** dataset, available directly in scikit-learn (`sklearn.datasets.load_breast_cancer`) and on the [kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
 - 569 samples
 - 30 numeric features (radius, texture, perimeter, area, smoothness, etc.)
