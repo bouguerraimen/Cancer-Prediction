@@ -32,7 +32,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Run the main script or open the notebook:
 
 ```bash
-python main.py
+jupyter notebook "Breast Cancer Prediction.ipynb"
 ```
 
 ## Results
